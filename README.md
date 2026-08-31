@@ -231,9 +231,7 @@ CameraDetection/
 ├── database.py            # Работа с SQLite (устройства, события, настройки)
 ├── requirements.txt       # Зависимости Python
 ├── README.md              # Эта документация
-├── LICENSE                # Лицензия (MIT)
 ├── .gitignore             # Игнорируемые файлы
-└── ico.ico                # Иконка приложения (опционально)
 ```
 
 ## Требования
